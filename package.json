@@ -1,0 +1,22 @@
+{
+  "name": "contact-form-netlify-function-example",
+  "version": "1.0.0",
+  "description": "Learning how to setup a contact form using netlify function.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sitek94/contact-form-netlify-function-example.git"
+  },
+  "author": "Maciek Sitkowski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sitek94/contact-form-netlify-function-example/issues"
+  },
+  "homepage": "https://github.com/sitek94/contact-form-netlify-function-example#readme",
+  "devDependencies": {
+    "netlify-lambda": "^2.0.2"
+  }
+}
